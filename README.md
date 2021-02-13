@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm [Sebghat Yusuf!](http://www.sebghatyusuf.com)👋
+
+Hi, I'm Sebghatullah Yusuf, a self-taught Full-stack Developer from Afghanistan.
 <!-- 🔭 I’m currently working on 
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with ...
@@ -7,7 +9,7 @@
 🔭 I’m currently working with Python, JavaScript, Dart 
 - 👯 I’m looking to collaborate on Open Source
 - 🌱 I’m currently learning TypeScript & Angular
-- 💬 Ask me about Python, Dart, Flutter
+- 💬 Ask me about Python, Django & React
 - 📫 How to reach me: [My official website](http://www.sebghatyusuf.com)
 - 😄 Pronouns: Sebghat
 - ⚡ Fun fact: Daydreaming Is Surprisingly Good For Your Brain.
@@ -26,7 +28,7 @@
 
 
 
-#### More about me 
+#### About me in statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebghatyusuf&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebghatyusuf&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
