@@ -6,7 +6,6 @@ Hi, I'm Sebghatullah Yusuf, a self-taught Full-stack Developer from Afghanistan.
 - 🤔 I’m looking for help with ...
 
 --> 
-🔭 I’m currently working with Python, JavaScript, Dart 
 - 👯 I’m looking to collaborate on Open Source
 - 🌱 I’m currently learning TypeScript & Angular
 - 💬 Ask me about Python, Django & React
@@ -28,7 +27,7 @@ Hi, I'm Sebghatullah Yusuf, a self-taught Full-stack Developer from Afghanistan.
 
 
 
-#### About me in statistics
+#### About me 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebghatyusuf&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebghatyusuf&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
