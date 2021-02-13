@@ -1,6 +1,6 @@
 ### Hi there I'm [Sebghat Yusuf!](http://www.sebghatyusuf.com)👋
 
-Hi, I'm Sebghatullah Yusuf, a self-taught Full-stack Developer from Afghanistan.
+My name is Sebghatullah Yusuf, I am a self-taught Full-stack Developer from Afghanistan.
 <!-- 🔭 I’m currently working on 
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with ...
