@@ -9,7 +9,7 @@ My name is Sebghatullah Yusuf, I am a self-taught Full-stack Developer from Afgh
 - 👯 I’m looking to collaborate on Open Source
 - 🌱 I’m currently learning TypeScript & Angular
 - 💬 Ask me about Python, Django & React
-- 📫 How to reach me: [My official website](http://www.sebghatyusuf.com)
+- 📫 How to reach me? [Visit My official website](http://www.sebghatyusuf.com)
 - 😄 Pronouns: Sebghat
 - ⚡ Fun fact: Daydreaming Is Surprisingly Good For Your Brain.
 
