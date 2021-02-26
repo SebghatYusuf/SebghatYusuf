@@ -6,8 +6,8 @@ My name is Sebghatullah Yusuf, I am a self-taught Full-stack Developer from Afgh
 - 🤔 I’m looking for help with ...
 
 --> 
-- 👯 I’m looking to collaborate on Open Source
-- 🌱 I’m currently learning TypeScript & Angular
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about Python, Django & React
 - 📫 How to reach me? [Visit My official website](http://www.sebghatyusuf.com)
 - 😄 Pronouns: Sebghat
