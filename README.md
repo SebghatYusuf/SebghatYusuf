@@ -1,4 +1,4 @@
-### Hi there I'm [Sebghat Yusuf!](http://www.sebghatyusuf.com)👋
+### Hi there I'm [Sebghatullah Yusuf!](http://www.sebghatyusuf.com)👋
 
 My name is Sebghatullah Yusuf, I am a self-taught Full-stack Developer from Afghanistan.
 <!-- 🔭 I’m currently working on 
