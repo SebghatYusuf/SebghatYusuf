@@ -7,8 +7,8 @@ My name is Sebghatullah Yusuf, I am a self-taught Full-stack Developer from Afgh
 
 --> 
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🌱 I’m currently learning TypeScript
-- 💬 Ask me about Python, Django & React
+- 🌱 I’m currently learning Swift
+- 💬 Ask me about Python, Django, React & Flutter
 - 📫 How to reach me? [Visit My official website](http://www.sebghatyusuf.com)
 - 😄 Pronouns: Sebghat
 - ⚡ Fun fact: Daydreaming Is Surprisingly Good For Your Brain.
@@ -22,6 +22,7 @@ My name is Sebghatullah Yusuf, I am a self-taught Full-stack Developer from Afgh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> 
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> 
 
 
