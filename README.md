@@ -1,4 +1,4 @@
-### Hi there I'm [Sebghatullah Yusuf!](http://www.sebghatyusuf.com)👋
+### Hi there I'm Sebghatullah Yusuf! 👋
 
 My name is Sebghatullah Yusuf, I am a self-taught Full-stack Developer from Afghanistan.
 <!-- 🔭 I’m currently working on 
@@ -9,7 +9,7 @@ My name is Sebghatullah Yusuf, I am a self-taught Full-stack Developer from Afgh
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about Python, Django, React & Flutter
-- 📫 How to reach me? [Visit My official website](http://www.sebghatyusuf.com)
+- 📫 How to reach me? ping me on twitter. 
 - 😄 Pronouns: Sebghat
 - ⚡ Fun fact: Daydreaming Is Surprisingly Good For Your Brain.
 
