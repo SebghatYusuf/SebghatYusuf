@@ -4,9 +4,9 @@ My name is Sebghatullah Yusuf, I am a Full-stack Developer from Afghanistan.
 
 
 - 🔭 I’m currently working with private companies.
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🌱 I’m currently learning DevOps
-- 💬 Ask me about Python, Django, React & Flutter
+- 👯 I’m looking to contribute to Open Source community.
+- 🌱 I’m currently learning Swift.
+- 💬 Ask me about Python, Django, Dart, React & Flutter
 - 📫 How to reach me? ping me on twitter or send me an email [Send Email](mailto:sebghatyusuf@gmail.com). 
 - 😄 Pronouns: He / His
 - ⚡ Language Proficiency: Can speak English very well. 
@@ -33,6 +33,4 @@ My name is Sebghatullah Yusuf, I am a Full-stack Developer from Afghanistan.
 #### About me 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebghatyusuf&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sebghatyusuf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
