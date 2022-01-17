@@ -1,15 +1,15 @@
 ### Hey there, I'm Sebghatullah Yusuf! 👋😇
 
-My name is Sebghatullah Yusuf, I am a Full-stack Developer from Afghanistan.
+My name is Sebghatullah Yusuf, I am a Full-stack Developer.
 
 
-- 🔭 I’m currently working with private companies.
+- 🧰 I’m currently working with private companies.
 - 👯 I’m looking to contribute to Open Source community.
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Swift 🚀.
 - 💬 Ask me about Python, Django, Dart, React & Flutter
 - 📫 How to reach me? ping me on twitter or send me an email [Send Email](mailto:sebghatyusuf@gmail.com). 
 - 😄 Pronouns: He / His
-- ⚡ Language Proficiency: Can speak English very well. 
+- ⚡ Language: Can speak English very well. 
 
 
 **Languages and Tools:**  
