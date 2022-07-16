@@ -34,3 +34,5 @@ My name is Sebghatullah Yusuf, I am a Full-stack Developer.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebghatyusuf&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sebghatyusuf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=sebghatyusuf&color=green)
+
