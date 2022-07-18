@@ -3,7 +3,7 @@
 My name is Sebghatullah Yusuf, I am a Full-stack Developer.
 
 
-- 🧰 I’m currently working with private companies.
+- 🧰 I’m currently working with a tech company.
 - 🙇🏻 I’m looking to contribute to Open Source community.
 - 🌱 I’m currently learning Swift 🚀.
 - 💬 Ask me about Python, Django, Dart, React & Flutter
