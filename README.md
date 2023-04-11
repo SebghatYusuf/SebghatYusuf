@@ -5,10 +5,9 @@ My name is Sebghatullah Yusuf, I am a Full-stack Developer.
 
 - 🧰 I’m currently working with a tech company.
 - 🙇🏻 I’m looking to contribute to Open Source community.
-- 🌱 I’m currently learning Swift 🚀.
 - 💬 Ask me about Python, Django, Dart, React & Flutter
 - 📫 How to reach me? ping me on twitter or send me an email [Send Email](mailto:sebghatyusuf@gmail.com). 
-- 😄 Pronouns: He / His
+- 😄 Pronouns: He / Him
 - 🌎 Language: Can speak English very well. 
 
 
