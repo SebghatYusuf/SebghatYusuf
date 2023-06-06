@@ -7,7 +7,6 @@ My name is Sebghatullah Yusuf, I am a Full-stack Developer.
 - 🙇🏻 I’m looking to contribute to Open Source community.
 - 💬 Ask me about Python, Django, Dart, React & Flutter
 - 📫 How to reach me? ping me on twitter or send me an email [Send Email](mailto:sebghatyusuf@gmail.com). 
-- 😄 Pronouns: He / Him
 - 🌎 Language: Can speak English very well. 
 
 
