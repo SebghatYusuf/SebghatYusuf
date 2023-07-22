@@ -3,7 +3,7 @@
 My name is Sebghatullah Yusuf, I am a Full-stack Developer.
 
 
-- 🧰 I’m currently working with a tech company.
+- 🧰 I’m currently working at EmpirePixel.
 - 🙇🏻 I’m looking to contribute to Open Source community.
 - 💬 Ask me about Python, Django, Dart, React & Flutter
 - 📫 How to reach me? ping me on twitter or send me an email [Send Email](mailto:sebghatyusuf@gmail.com). 
